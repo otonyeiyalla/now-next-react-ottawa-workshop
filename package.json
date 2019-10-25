@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/otonyeiyalla/now-next-react-ottawa-workshop/issues"
   },
-  "homepage": "https://github.com/otonyeiyalla/now-next-react-ottawa-workshop#readme"
+  "homepage": "https://github.com/otonyeiyalla/now-next-react-ottawa-workshop#readme",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
 }
